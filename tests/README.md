@@ -28,7 +28,7 @@ python -m pytest tests/test_signup.py -v
 
 ## Test Coverage
 
-The test suite provides 100% code coverage for the main application logic, including:
+The test suite aims to provide comprehensive coverage for the main application logic, including:
 
 - ✅ Root endpoint redirection
 - ✅ Activities listing endpoint
